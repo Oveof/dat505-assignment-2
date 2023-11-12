@@ -1,0 +1,395 @@
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 nixos:56680             162.159.133.234:https   ESTABLISHED 3971/discord --stan 
+tcp        0      0 nixos:57310             192.115.111.34.bc:https ESTABLISHED 3971/discord --stan 
+tcp        0      0 nixos:49276             93.243.107.34.bc.:https ESTABLISHED 3587/.firefox-wrapp 
+udp        0      0 nixos:bootpc            _gateway:bootps         ESTABLISHED 1465/NetworkManager 
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   PID/Program name     Path
+unix  3      [ ]         STREAM     CONNECTED     16824    2137/virtlogd        
+unix  3      [ ]         STREAM     CONNECTED     38003    4395/kitty           
+unix  3      [ ]         STREAM     CONNECTED     26171    3967/discord --gpu-  
+unix  3      [ ]         STREAM     CONNECTED     1005     3832/firefox         
+unix  3      [ ]         STREAM     CONNECTED     25161    3010/pipewire        /run/user/1000/pipewire-0
+unix  3      [ ]         STREAM     CONNECTED     34275    3587/.firefox-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     17129    2864/dbus-daemon     /run/user/1000/bus
+unix  2      [ ]         STREAM     CONNECTED     22451    3749/firefox         
+unix  3      [ ]         DGRAM      CONNECTED     14583    1/systemd            
+unix  2      [ ]         DGRAM      CONNECTED     21651    1235/systemd-timesy  
+unix  3      [ ]         STREAM     CONNECTED     36972    3921/.Discord-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     897      2864/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     18873    1286/dbus-daemon     
+unix  3      [ ]         STREAM     CONNECTED     37968    4045/app.asar --no-  
+unix  3      [ ]         STREAM     CONNECTED     11840    3967/discord --gpu-  
+unix  2      [ ]         STREAM     CONNECTED     15063    3663/firefox         
+unix  3      [ ]         STREAM     CONNECTED     18168    1286/dbus-daemon     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     17127    2864/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     248      1301/systemd-machin  
+unix  3      [ ]         DGRAM      CONNECTED     20031    1/systemd            /run/systemd/notify
+unix  3      [ ]         STREAM     CONNECTED     53458    16193/kitty          
+unix  3      [ ]         STREAM     CONNECTED     22099    1/systemd            /run/systemd/journal/stdout
+unix  2      [ ]         DGRAM      CONNECTED     246      1301/systemd-machin  
+unix  3      [ ]         STREAM     CONNECTED     32294    4102/discord --stan  
+unix  3      [ ]         STREAM     CONNECTED     13082    1/systemd            /run/systemd/journal/stdout
+unix  2      [ ]         STREAM     CONNECTED     28432    11533/firefox        
+unix  3      [ ]         STREAM     CONNECTED     33954    2864/dbus-daemon     /run/user/1000/bus
+unix  2      [ ]         DGRAM                    31194    2953/waybar          
+unix  3      [ ]         STREAM     CONNECTED     13096    2871/gdm-wayland-se  
+unix  3      [ ]         STREAM     CONNECTED     34301    3921/.Discord-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     14903    1286/dbus-daemon     /run/dbus/system_bus_socket
+unix  2      [ ]         DGRAM                    28196    2855/systemd         /run/user/1000/systemd/notify
+unix  2      [ ]         DGRAM                    16829    2137/virtlogd        
+unix  12     [ ]         DGRAM      CONNECTED     20052    1/systemd            /run/systemd/journal/dev-log
+unix  3      [ ]         STREAM     CONNECTED     1012     3967/discord --gpu-  
+unix  9      [ ]         DGRAM      CONNECTED     20054    1/systemd            /run/systemd/journal/socket
+unix  3      [ ]         STREAM     CONNECTED     25440    3971/discord --stan  
+unix  3      [ ]         STREAM     CONNECTED     17207    2864/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     13188    4102/discord --stan  
+unix  3      [ ]         STREAM     CONNECTED     13187    3921/.Discord-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     14509    1/systemd            /run/systemd/io.system.ManagedOOM
+unix  3      [ ]         STREAM     CONNECTED     31554    4045/app.asar --no-  
+unix  3      [ ]         STREAM     CONNECTED     30325    3016/Xwayland        @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     26169    3921/.Discord-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     14915    1286/dbus-daemon     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     813      1/systemd            /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     19391    1945/gdm             /tmp/dbus-DcAmc6m7
+unix  3      [ ]         STREAM     CONNECTED     25460    2875/Hyprland        /run/user/1000/wayland-1
+unix  3      [ ]         STREAM     CONNECTED     25159    3010/pipewire        /run/user/1000/pipewire-0
+unix  3      [ ]         STREAM     CONNECTED     17555    1/systemd            /run/systemd/journal/stdout
+unix  3      [ ]         DGRAM      CONNECTED     28197    2855/systemd         
+unix  3      [ ]         SEQPACKET  CONNECTED     34068    3835/firefox         
+unix  3      [ ]         STREAM     CONNECTED     22289    3041/pipewire-pulse  /run/user/1000/pulse/native
+unix  3      [ ]         STREAM     CONNECTED     18875    1286/dbus-daemon     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     1006     3587/.firefox-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     31523    3016/Xwayland        @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     31223    3011/wireplumber     
+unix  3      [ ]         STREAM     CONNECTED     16532    1234/systemd-oomd    
+unix  3      [ ]         STREAM     CONNECTED     28442    11533/firefox        
+unix  3      [ ]         STREAM     CONNECTED     33907    3008/xdg-desktop-po  
+unix  3      [ ]         STREAM     CONNECTED     17111    1234/systemd-oomd    /run/systemd/oom/io.system.ManagedOOM
+unix  3      [ ]         STREAM     CONNECTED     14548    1/systemd            
+unix  3      [ ]         STREAM     CONNECTED     13198    4102/discord --stan  
+unix  3      [ ]         STREAM     CONNECTED     22262    3041/pipewire-pulse  
+unix  3      [ ]         SEQPACKET  CONNECTED     26131    3930/.Discord-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     25452    3010/pipewire        /run/user/1000/pipewire-0
+unix  3      [ ]         STREAM     CONNECTED     17524    1/systemd            /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     11003    1945/gdm             
+unix  3      [ ]         SEQPACKET  CONNECTED     15057    3587/.firefox-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     17594    1/systemd            /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     13118    2875/Hyprland        /run/user/1000/wayland-1
+unix  3      [ ]         STREAM     CONNECTED     39991    3587/.firefox-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     28227    2955/hyprpaper       
+unix  3      [ ]         STREAM     CONNECTED     19277    2148/qemu-system-x8  
+unix  3      [ ]         STREAM     CONNECTED     36986    4102/discord --stan  
+unix  3      [ ]         STREAM     CONNECTED     30331    3016/Xwayland        @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     27827    1745/systemd-logind  
+unix  3      [ ]         STREAM     CONNECTED     23179    1234/systemd-oomd    
+unix  3      [ ]         STREAM     CONNECTED     17597    1/systemd            /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     31240    3011/wireplumber     
+unix  2      [ ]         DGRAM      CONNECTED     139      726/systemd-udevd    
+unix  3      [ ]         STREAM     CONNECTED     26170    3921/.Discord-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     32966    3041/pipewire-pulse  
+unix  3      [ ]         STREAM     CONNECTED     33807    1286/dbus-daemon     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     37971    4045/app.asar --no-  
+unix  3      [ ]         STREAM     CONNECTED     18878    1286/dbus-daemon     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     14170    1/systemd            /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     22233    2864/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     28089    2148/qemu-system-x8  
+unix  3      [ ]         SEQPACKET  CONNECTED     15061    3587/.firefox-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     871      1286/dbus-daemon     /run/dbus/system_bus_socket
+unix  3      [ ]         SEQPACKET  CONNECTED     15058    3587/.firefox-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     32954    3041/pipewire-pulse  
+unix  3      [ ]         STREAM     CONNECTED     812      1/systemd            /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     37041    4447/kitty           
+unix  3      [ ]         STREAM     CONNECTED     17124    2864/dbus-daemon     
+unix  3      [ ]         SEQPACKET  CONNECTED     31347    3587/.firefox-wrapp  
+unix  2      [ ]         DGRAM      CONNECTED     22227    2864/dbus-daemon     
+unix  3      [ ]         STREAM     CONNECTED     404      2148/qemu-system-x8  /var/lib/libvirt/qemu/domain-1-linux2022/monitor.sock
+unix  3      [ ]         STREAM     CONNECTED     13489    1/systemd            /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     11829    3697/firefox         
+unix  3      [ ]         STREAM     CONNECTED     239      1301/systemd-machin  
+unix  3      [ ]         STREAM     CONNECTED     1004     3587/.firefox-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     22226    2864/dbus-daemon     /run/user/1000/bus
+unix  2      [ ]         DGRAM      CONNECTED     16591    1286/dbus-daemon     
+unix  3      [ ]         STREAM     CONNECTED     13197    4045/app.asar --no-  
+unix  3      [ ]         SEQPACKET  CONNECTED     15060    3587/.firefox-wrapp  
+unix  2      [ ]         DGRAM      CONNECTED     19439    2855/systemd         
+unix  3      [ ]         STREAM     CONNECTED     31558    4045/app.asar --no-  
+unix  2      [ ]         STREAM     CONNECTED     34052    3835/firefox         
+unix  3      [ ]         STREAM     CONNECTED     17316    1/systemd            /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     23270    1286/dbus-daemon     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     11616    2838/gdm-session-wo  
+unix  3      [ ]         STREAM     CONNECTED     28441    3587/.firefox-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     815      2994/xdg-permission  
+unix  3      [ ]         DGRAM      CONNECTED     20033    1/systemd            
+unix  3      [ ]         STREAM     CONNECTED     13172    3967/discord --gpu-  
+unix  3      [ ]         SEQPACKET  CONNECTED     34067    3587/.firefox-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     28088    2148/qemu-system-x8  
+unix  3      [ ]         STREAM     CONNECTED     30308    3921/.Discord-wrapp  
+unix  3      [ ]         SEQPACKET  CONNECTED     22459    3749/firefox         
+unix  3      [ ]         STREAM     CONNECTED     30262    3749/firefox         
+unix  3      [ ]         STREAM     CONNECTED     11633    2875/Hyprland        
+unix  2      [ ]         DGRAM      CONNECTED     31084    2857/(sd-pam)        
+unix  3      [ ]         DGRAM      CONNECTED     143      726/systemd-udevd    
+unix  3      [ ]         STREAM     CONNECTED     31560    3921/.Discord-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     26191    3041/pipewire-pulse  
+unix  3      [ ]         SEQPACKET  CONNECTED     22458    3587/.firefox-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     39992    11533/firefox        
+unix  3      [ ]         STREAM     CONNECTED     14897    2990/xdg-document-p  
+unix  2      [ ]         DGRAM      CONNECTED     13072    2838/gdm-session-wo  
+unix  3      [ ]         SEQPACKET  CONNECTED     34048    3829/firefox         
+unix  3      [ ]         STREAM     CONNECTED     13099    2871/gdm-wayland-se  
+unix  3      [ ]         STREAM     CONNECTED     13016    2148/qemu-system-x8  /var/lib/libvirt/qemu/channel/target/domain-1-linux2022/org.qemu.guest_agent.0
+unix  2      [ ]         DGRAM      CONNECTED     11298    1/systemd            
+unix  3      [ ]         STREAM     CONNECTED     1014     3967/discord --gpu-  
+unix  3      [ ]         STREAM     CONNECTED     25770    1235/systemd-timesy  
+unix  3      [ ]         STREAM     CONNECTED     17202    2875/Hyprland        
+unix  3      [ ]         STREAM     CONNECTED     28201    2855/systemd         
+unix  3      [ ]         STREAM     CONNECTED     21684    1235/systemd-timesy  
+unix  3      [ ]         STREAM     CONNECTED     26189    3041/pipewire-pulse  /run/user/1000/pulse/native
+unix  3      [ ]         STREAM     CONNECTED     18876    1286/dbus-daemon     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     25087    3011/wireplumber     
+unix  3      [ ]         STREAM     CONNECTED     22228    2864/dbus-daemon     /run/user/1000/bus
+unix  2      [ ]         DGRAM      CONNECTED     17690    2053/dnsmasq         
+unix  3      [ ]         STREAM     CONNECTED     45946    15831/hx             
+unix  3      [ ]         STREAM     CONNECTED     31521    3921/.Discord-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     31503    3921/.Discord-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     34276    3829/firefox         
+unix  3      [ ]         STREAM     CONNECTED     17196    2864/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     14902    2990/xdg-document-p  
+unix  3      [ ]         DGRAM      CONNECTED     14584    1/systemd            
+unix  3      [ ]         STREAM     CONNECTED     34336    2864/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     31526    3016/Xwayland        @/tmp/.X11-unix/X0
+unix  3      [ ]         SEQPACKET  CONNECTED     34047    3587/.firefox-wrapp  
+unix  2      [ ]         DGRAM                    25076    2985/xdg-desktop-po  
+unix  3      [ ]         STREAM     CONNECTED     37965    3967/discord --gpu-  
+unix  3      [ ]         STREAM     CONNECTED     11839    3967/discord --gpu-  
+unix  3      [ ]         STREAM     CONNECTED     31501    3016/Xwayland        @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     12351    1/systemd            /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     26180    3041/pipewire-pulse  
+unix  2      [ ]         DGRAM                    13538    1915/libvirtd        
+unix  3      [ ]         STREAM     CONNECTED     39970    2864/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         SEQPACKET  CONNECTED     31337    3587/.firefox-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     37042    4447/kitty           
+unix  3      [ ]         STREAM     CONNECTED     17194    2953/waybar          
+unix  3      [ ]         STREAM     CONNECTED     17112    2864/dbus-daemon     
+unix  3      [ ]         STREAM     CONNECTED     27778    1743/accounts-daemo  
+unix  3      [ ]         STREAM     CONNECTED     32947    2953/waybar          
+unix  3      [ ]         STREAM     CONNECTED     673      1286/dbus-daemon     /run/dbus/system_bus_socket
+unix  3      [ ]         DGRAM      CONNECTED     21656    1235/systemd-timesy  
+unix  3      [ ]         STREAM     CONNECTED     22461    3749/firefox         
+unix  3      [ ]         STREAM     CONNECTED     37963    3971/discord --stan  
+unix  3      [ ]         STREAM     CONNECTED     34280    3832/firefox         
+unix  3      [ ]         STREAM     CONNECTED     31193    2953/waybar          
+unix  3      [ ]         STREAM     CONNECTED     11611    2838/gdm-session-wo  
+unix  3      [ ]         STREAM     CONNECTED     31555    4045/app.asar --no-  
+unix  2      [ ]         STREAM     CONNECTED     34040    3829/firefox         
+unix  3      [ ]         STREAM     CONNECTED     19405    2855/systemd         
+unix  3      [ ]         STREAM     CONNECTED     32314    4388/kitty           
+unix  3      [ ]         STREAM     CONNECTED     10993    1945/gdm             
+unix  3      [ ]         STREAM     CONNECTED     13116    2875/Hyprland        /run/user/1000/wayland-1
+unix  3      [ ]         STREAM     CONNECTED     42221    2875/Hyprland        /run/user/1000/wayland-1
+unix  3      [ ]         STREAM     CONNECTED     13095    2871/gdm-wayland-se  
+unix  2      [ ]         DGRAM      CONNECTED     49480    16350/sudo           
+unix  3      [ ]         STREAM     CONNECTED     38004    4395/kitty           
+unix  3      [ ]         STREAM     CONNECTED     1007     3835/firefox         
+unix  3      [ ]         STREAM     CONNECTED     13038    1/systemd            /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     27740    1/systemd            /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     25083    3010/pipewire        
+unix  3      [ ]         STREAM     CONNECTED     14906    3010/pipewire        
+unix  3      [ ]         STREAM     CONNECTED     37969    4045/app.asar --no-  
+unix  3      [ ]         STREAM     CONNECTED     26176    3041/pipewire-pulse  
+unix  3      [ ]         STREAM     CONNECTED     26174    3041/pipewire-pulse  /run/user/1000/pulse/native
+unix  3      [ ]         STREAM     CONNECTED     13490    1744/iwd             
+unix  2      [ ]         DGRAM      CONNECTED     57788    16366/sudo           
+unix  3      [ ]         STREAM     CONNECTED     34519    2864/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     34300    3921/.Discord-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     25439    3921/.Discord-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     17125    2864/dbus-daemon     
+unix  3      [ ]         STREAM     CONNECTED     41216    4514/nix-daemon      
+unix  3      [ ]         STREAM     CONNECTED     23238    1286/dbus-daemon     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     30160    3587/.firefox-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     13117    2875/Hyprland        /run/user/1000/wayland-1
+unix  3      [ ]         STREAM     CONNECTED     16542    1286/dbus-daemon     
+unix  3      [ ]         STREAM     CONNECTED     14091    1/systemd            /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     39089    4102/discord --stan  
+unix  3      [ ]         STREAM     CONNECTED     1013     3967/discord --gpu-  
+unix  3      [ ]         STREAM     CONNECTED     26179    3041/pipewire-pulse  /run/user/1000/pulse/native
+unix  3      [ ]         SEQPACKET  CONNECTED     26127    3921/.Discord-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     22291    3041/pipewire-pulse  
+unix  3      [ ]         SEQPACKET  CONNECTED     28439    3587/.firefox-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     31559    4045/app.asar --no-  
+unix  2      [ ]         DGRAM      CONNECTED     23170    1234/systemd-oomd    
+unix  3      [ ]         STREAM     CONNECTED     39100    2875/Hyprland        /run/user/1000/wayland-1
+unix  3      [ ]         SEQPACKET  CONNECTED     31348    3697/firefox         
+unix  3      [ ]         STREAM     CONNECTED     17199    2875/Hyprland        /run/user/1000/wayland-1
+unix  3      [ ]         STREAM     CONNECTED     22224    2864/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     37981    4045/app.asar --no-  
+unix  3      [ ]         STREAM     CONNECTED     37962    4045/app.asar --no-  
+unix  3      [ ]         STREAM     CONNECTED     13166    3016/Xwayland        @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     24947    2855/systemd         
+unix  3      [ ]         STREAM     CONNECTED     45947    15831/hx             
+unix  3      [ ]         STREAM     CONNECTED     31506    3921/.Discord-wrapp  
+unix  3      [ ]         SEQPACKET  CONNECTED     34059    3587/.firefox-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     14917    1286/dbus-daemon     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     25458    2875/Hyprland        /run/user/1000/wayland-1
+unix  3      [ ]         STREAM     CONNECTED     872      1/systemd            /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     17201    3016/Xwayland        
+unix  3      [ ]         STREAM     CONNECTED     28389    4045/app.asar --no-  
+unix  3      [ ]         DGRAM      CONNECTED     12948    1/systemd            
+unix  3      [ ]         STREAM     CONNECTED     25450    3010/pipewire        /run/user/1000/pipewire-0
+unix  3      [ ]         STREAM     CONNECTED     34279    3587/.firefox-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     31222    3011/wireplumber     
+unix  3      [ ]         STREAM     CONNECTED     13503    1744/iwd             
+unix  3      [ ]         STREAM     CONNECTED     23225    1286/dbus-daemon     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     1016     3921/.Discord-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     816      2985/xdg-desktop-po  
+unix  3      [ ]         STREAM     CONNECTED     39981    1/systemd            /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     25164    3010/pipewire        /run/user/1000/pipewire-0
+unix  3      [ ]         DGRAM      CONNECTED     21655    1235/systemd-timesy  
+unix  3      [ ]         STREAM     CONNECTED     22511    3971/discord --stan  
+unix  3      [ ]         STREAM     CONNECTED     26049    1286/dbus-daemon     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     17226    3011/wireplumber     
+unix  3      [ ]         STREAM     CONNECTED     34337    3921/.Discord-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     31490    3829/firefox         
+unix  3      [ ]         STREAM     CONNECTED     13100    2871/gdm-wayland-se  
+unix  3      [ ]         STREAM     CONNECTED     21723    1286/dbus-daemon     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     37978    4045/app.asar --no-  
+unix  3      [ ]         STREAM     CONNECTED     11750    3663/firefox         
+unix  3      [ ]         STREAM     CONNECTED     18118    2864/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     25072    3001/fusermount3     
+unix  3      [ ]         STREAM     CONNECTED     26044    1286/dbus-daemon     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     130      726/systemd-udevd    
+unix  3      [ ]         STREAM     CONNECTED     31531    3971/discord --stan  
+unix  3      [ ]         STREAM     CONNECTED     28202    2855/systemd         
+unix  3      [ ]         STREAM     CONNECTED     22504    2864/dbus-daemon     /run/user/1000/bus
+unix  2      [ ]         DGRAM      CONNECTED     33944    1945/gdm             
+unix  3      [ ]         STREAM     CONNECTED     33063    1286/dbus-daemon     /run/dbus/system_bus_socket
+unix  3      [ ]         SEQPACKET  CONNECTED     34060    3832/firefox         
+unix  3      [ ]         STREAM     CONNECTED     827      3011/wireplumber     
+unix  3      [ ]         STREAM     CONNECTED     29188    1465/NetworkManager  
+unix  3      [ ]         STREAM     CONNECTED     45951    15831/hx             
+unix  3      [ ]         STREAM     CONNECTED     24661    1/systemd            /run/systemd/journal/stdout
+unix  2      [ ]         DGRAM      CONNECTED     25801    1848/polkitd         
+unix  3      [ ]         STREAM     CONNECTED     31530    3971/discord --stan  
+unix  3      [ ]         STREAM     CONNECTED     17203    3016/Xwayland        
+unix  3      [ ]         STREAM     CONNECTED     11148    2255/rtkit-daemon    
+unix  3      [ ]         STREAM     CONNECTED     22275    3041/pipewire-pulse  
+unix  3      [ ]         STREAM     CONNECTED     13128    2985/xdg-desktop-po  
+unix  3      [ ]         STREAM     CONNECTED     25163    3010/pipewire        /run/user/1000/pipewire-0
+unix  3      [ ]         STREAM     CONNECTED     25103    3010/pipewire        
+unix  2      [ ]         DGRAM      CONNECTED     27816    1745/systemd-logind  
+unix  3      [ ]         STREAM     CONNECTED     31489    3587/.firefox-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     37983    4102/discord --stan  
+unix  3      [ ]         STREAM     CONNECTED     14306    1915/libvirtd        
+unix  3      [ ]         STREAM     CONNECTED     28271    2875/Hyprland        /run/user/1000/wayland-1
+unix  3      [ ]         STREAM     CONNECTED     37975    4045/app.asar --no-  
+unix  3      [ ]         STREAM     CONNECTED     11673    2994/xdg-permission  
+unix  3      [ ]         STREAM     CONNECTED     31561    4102/discord --stan  
+unix  3      [ ]         STREAM     CONNECTED     33911    3008/xdg-desktop-po  
+unix  3      [ ]         STREAM     CONNECTED     32313    4388/kitty           
+unix  3      [ ]         SEQPACKET  CONNECTED     26128    3921/.Discord-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     17556    1/systemd            /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     34281    3587/.firefox-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     33952    2864/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     23157    1/systemd            /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     16622    1465/NetworkManager  
+unix  3      [ ]         STREAM     CONNECTED     36975    3921/.Discord-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     28008    1915/libvirtd        
+unix  3      [ ]         SEQPACKET  CONNECTED     28440    11533/firefox        
+unix  2      [ ]         DGRAM                    31884    3011/wireplumber     
+unix  3      [ ]         DGRAM      CONNECTED     21657    1235/systemd-timesy  
+unix  2      [ ]         STREAM     CONNECTED     34050    3832/firefox         
+unix  3      [ ]         STREAM     CONNECTED     22460    3587/.firefox-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     13119    2985/xdg-desktop-po  
+unix  3      [ ]         STREAM     CONNECTED     22435    3697/firefox         
+unix  3      [ ]         SEQPACKET  CONNECTED     26133    3931/.Discord-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     32295    4102/discord --stan  
+unix  3      [ ]         STREAM     CONNECTED     25158    3010/pipewire        /run/user/1000/pipewire-0
+unix  3      [ ]         STREAM     CONNECTED     34517    2864/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     33912    3008/xdg-desktop-po  
+unix  3      [ ]         STREAM     CONNECTED     37972    4045/app.asar --no-  
+unix  3      [ ]         STREAM     CONNECTED     11749    3587/.firefox-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     53457    16193/kitty          
+unix  3      [ ]         STREAM     CONNECTED     37984    4102/discord --stan  
+unix  3      [ ]         STREAM     CONNECTED     22234    1/systemd            /run/systemd/journal/stdout
+unix  3      [ ]         DGRAM      CONNECTED     144      726/systemd-udevd    
+unix  3      [ ]         STREAM     CONNECTED     30327    3016/Xwayland        @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     13171    3921/.Discord-wrapp  
+unix  2      [ ]         STREAM     CONNECTED     19376    1945/gdm             /tmp/dbus-Wt31QXdE
+unix  3      [ ]         STREAM     CONNECTED     36973    3921/.Discord-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     37979    4045/app.asar --no-  
+unix  3      [ ]         STREAM     CONNECTED     30261    3587/.firefox-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     30157    3587/.firefox-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     1015     3921/.Discord-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     13039    1/systemd            /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     31504    3921/.Discord-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     31328    3587/.firefox-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     14627    1286/dbus-daemon     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     13173    3921/.Discord-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     22223    2954/dunst           
+unix  3      [ ]         STREAM     CONNECTED     33918    3008/xdg-desktop-po  
+unix  3      [ ]         STREAM     CONNECTED     18872    1286/dbus-daemon     
+unix  3      [ ]         STREAM     CONNECTED     30333    3016/Xwayland        @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     31950    3487/nsncd           
+unix  3      [ ]         STREAM     CONNECTED     814      1/systemd            /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     25800    1848/polkitd         
+unix  3      [ ]         STREAM     CONNECTED     25451    3010/pipewire        /run/user/1000/pipewire-0
+unix  3      [ ]         DGRAM      CONNECTED     20032    1/systemd            
+unix  3      [ ]         STREAM     CONNECTED     22434    3587/.firefox-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     13149    3016/Xwayland        @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     22251    2864/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     22097    1/systemd            /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     23227    1286/dbus-daemon     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     11828    3587/.firefox-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     37974    4045/app.asar --no-  
+unix  3      [ ]         STREAM     CONNECTED     45952    15831/hx             
+unix  3      [ ]         STREAM     CONNECTED     45950    15831/hx             
+unix  3      [ ]         STREAM     CONNECTED     31326    3587/.firefox-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     17192    2864/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     33919    1286/dbus-daemon     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     825      1/systemd            /run/systemd/journal/stdout
+unix  2      [ ]         STREAM     CONNECTED     19390    1945/gdm             /tmp/dbus-Wt31QXdE
+unix  2      [ ]         DGRAM      CONNECTED     10662    701/systemd-journal  
+unix  3      [ ]         STREAM     CONNECTED     37982    4045/app.asar --no-  
+unix  3      [ ]         STREAM     CONNECTED     22100    1/systemd            /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     13531    1915/libvirtd        
+unix  3      [ ]         STREAM     CONNECTED     797      2954/dunst           
+unix  3      [ ]         STREAM     CONNECTED     26172    3967/discord --gpu-  
+unix  3      [ ]         STREAM     CONNECTED     22230    2864/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     13174    3971/discord --stan  
+unix  3      [ ]         DGRAM      CONNECTED     21658    1235/systemd-timesy  
+unix  3      [ ]         STREAM     CONNECTED     23177    1234/systemd-oomd    
+unix  3      [ ]         STREAM     CONNECTED     39090    4045/app.asar --no-  
+unix  3      [ ]         STREAM     CONNECTED     34282    3835/firefox         
+unix  2      [ ]         STREAM     CONNECTED     31340    3697/firefox         
+unix  3      [ ]         STREAM     CONNECTED     31192    2953/waybar          
+unix  3      [ ]         STREAM     CONNECTED     30309    4045/app.asar --no-  
+unix  3      [ ]         STREAM     CONNECTED     826      1/systemd            /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     19278    2148/qemu-system-x8  
+unix  3      [ ]         STREAM     CONNECTED     10990    1915/libvirtd        
+unix  3      [ ]         STREAM     CONNECTED     16582    1286/dbus-daemon     /run/dbus/system_bus_socket
+unix  3      [ ]         STREAM     CONNECTED     22510    3971/discord --stan  
+unix  3      [ ]         STREAM     CONNECTED     37566    2864/dbus-daemon     /run/user/1000/bus
+unix  3      [ ]         STREAM     CONNECTED     13488    1/systemd            /run/systemd/journal/stdout
+unix  3      [ ]         STREAM     CONNECTED     37964    4045/app.asar --no-  
+unix  3      [ ]         STREAM     CONNECTED     28390    4045/app.asar --no-  
+unix  3      [ ]         STREAM     CONNECTED     25073    2990/xdg-document-p  
+unix  3      [ ]         STREAM     CONNECTED     11615    2838/gdm-session-wo  
+unix  3      [ ]         DGRAM      CONNECTED     12949    1/systemd            
+unix  3      [ ]         SEQPACKET  CONNECTED     31338    3663/firefox         
+unix  3      [ ]         STREAM     CONNECTED     17200    2875/Hyprland        
+unix  3      [ ]         STREAM     CONNECTED     27798    1745/systemd-logind  
+unix  3      [ ]         STREAM     CONNECTED     32951    2953/waybar          
+unix  3      [ ]         STREAM     CONNECTED     25100    3010/pipewire        
+unix  3      [ ]         DGRAM      CONNECTED     28198    2855/systemd         
+unix  3      [ ]         STREAM     CONNECTED     13186    3921/.Discord-wrapp  
+unix  3      [ ]         STREAM     CONNECTED     45949    15831/hx             
+unix  3      [ ]         STREAM     CONNECTED     34338    4045/app.asar --no-  
+unix  3      [ ]         STREAM     CONNECTED     31528    3016/Xwayland        @/tmp/.X11-unix/X0
+unix  3      [ ]         STREAM     CONNECTED     31522    3967/discord --gpu-  
+unix  3      [ ]         STREAM     CONNECTED     11612    2838/gdm-session-wo  
+unix  3      [ ]         SEQPACKET  CONNECTED     26130    3921/.Discord-wrapp  @623c6
+unix  3      [ ]         SEQPACKET  CONNECTED     26157    3921/.Discord-wrapp  @5f9ae
+unix  3      [ ]         SEQPACKET  CONNECTED     26158    3946/chrome_crashpa  @21eb9
+unix  3      [ ]         SEQPACKET  CONNECTED     26132    3921/.Discord-wrapp  @c7d40
